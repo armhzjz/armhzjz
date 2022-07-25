@@ -5,6 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/4bf7c7f3-cb0f-4d53-b80e-3b544c4e55bc.svg)](https://wakatime.com/@4bf7c7f3-cb0f-4d53-b80e-3b544c4e55bc)
 
 ## GitHub
+
 [![trophy](https://github-profile-trophy.vercel.app/?armhzjz=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
